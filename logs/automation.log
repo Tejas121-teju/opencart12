@@ -1,0 +1,12 @@
+13:02:43.988 [main] INFO  testcasses.accountregestire - *************Starting Teatcase*********
+13:02:45.343 [main] INFO  testcasses.accountregestire - Clicked regestire link
+13:02:45.438 [main] INFO  testcasses.accountregestire - provide customer details
+13:02:48.277 [main] INFO  testcasses.accountregestire - *************finishing Teatcase*********
+13:02:52.582 [main] INFO  testcasses.logintomyaccount - *******testcase start***********
+13:02:54.541 [main] INFO  testcasses.logintomyaccount - *********test finish***********
+13:02:07.558 [main] INFO  testcasses.accountregestire - *************Starting Teatcase*********
+13:02:08.775 [main] INFO  testcasses.accountregestire - Clicked regestire link
+13:02:08.778 [main] INFO  testcasses.accountregestire - provide customer details
+13:02:10.514 [main] INFO  testcasses.accountregestire - *************finishing Teatcase*********
+13:02:14.608 [main] INFO  testcasses.logintomyaccount - *******testcase start***********
+13:02:16.917 [main] INFO  testcasses.logintomyaccount - *********test finish***********

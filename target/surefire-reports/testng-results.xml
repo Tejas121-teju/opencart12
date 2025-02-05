@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-04T22:50:24 IST" name="Suite" finished-at="2025-02-04T22:50:45 IST" duration-ms="20961">
+  <suite started-at="2025-02-05T13:26:59 IST" name="Suite" finished-at="2025-02-05T13:27:17 IST" duration-ms="18045">
     <groups>
       <group name="regression">
         <method signature="accountregestire.accregestire()[pri:0, instance:testcasses.accountregestire@515aebb0]" name="accregestire" class="testcasses.accountregestire"/>
@@ -15,9 +15,9 @@
         <method signature="logintomyaccount.logintomyaccout()[pri:0, instance:testcasses.logintomyaccount@5c5eefef]" name="logintomyaccout" class="testcasses.logintomyaccount"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2025-02-04T22:50:24 IST" name="Test" finished-at="2025-02-04T22:50:45 IST" duration-ms="20961">
+    <test started-at="2025-02-05T13:26:59 IST" name="Test" finished-at="2025-02-05T13:27:17 IST" duration-ms="18045">
       <class name="testcasses.logintomyaccount">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcasses.logintomyaccount@5c5eefef]" started-at="2025-02-04T22:50:37 IST" name="setup" finished-at="2025-02-04T22:50:41 IST" duration-ms="4673" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcasses.logintomyaccount@5c5eefef]" started-at="2025-02-05T13:27:11 IST" name="setup" finished-at="2025-02-05T13:27:14 IST" duration-ms="3562" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,17 +33,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="logintomyaccout()[pri:0, instance:testcasses.logintomyaccount@5c5eefef]" started-at="2025-02-04T22:50:41 IST" name="logintomyaccout" finished-at="2025-02-04T22:50:44 IST" duration-ms="3153" status="PASS">
+        <test-method signature="logintomyaccout()[pri:0, instance:testcasses.logintomyaccount@5c5eefef]" started-at="2025-02-05T13:27:14 IST" name="logintomyaccout" finished-at="2025-02-05T13:27:16 IST" duration-ms="2312" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logintomyaccout -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testcasses.logintomyaccount@5c5eefef]" started-at="2025-02-04T22:50:44 IST" name="close" finished-at="2025-02-04T22:50:45 IST" duration-ms="289" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:testcasses.logintomyaccount@5c5eefef]" started-at="2025-02-05T13:27:16 IST" name="close" finished-at="2025-02-05T13:27:17 IST" duration-ms="290" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
       </class> <!-- testcasses.logintomyaccount -->
       <class name="testcasses.accountregestire">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcasses.accountregestire@515aebb0]" started-at="2025-02-04T22:50:24 IST" name="setup" finished-at="2025-02-04T22:50:33 IST" duration-ms="9150" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcasses.accountregestire@515aebb0]" started-at="2025-02-05T13:26:59 IST" name="setup" finished-at="2025-02-05T13:27:07 IST" duration-ms="8290" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="accregestire()[pri:0, instance:testcasses.accountregestire@515aebb0]" started-at="2025-02-04T22:50:33 IST" name="accregestire" finished-at="2025-02-04T22:50:36 IST" duration-ms="3202" status="PASS">
+        <test-method signature="accregestire()[pri:0, instance:testcasses.accountregestire@515aebb0]" started-at="2025-02-05T13:27:07 IST" name="accregestire" finished-at="2025-02-05T13:27:10 IST" duration-ms="3000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- accregestire -->
-        <test-method is-config="true" signature="close()[pri:0, instance:testcasses.accountregestire@515aebb0]" started-at="2025-02-04T22:50:36 IST" name="close" finished-at="2025-02-04T22:50:37 IST" duration-ms="332" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:testcasses.accountregestire@515aebb0]" started-at="2025-02-05T13:27:10 IST" name="close" finished-at="2025-02-05T13:27:11 IST" duration-ms="507" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
